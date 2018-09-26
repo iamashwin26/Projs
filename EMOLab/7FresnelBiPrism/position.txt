@@ -1,0 +1,7 @@
+Object	Position
+lasere stand	3
+laser output	12
+Lense 1	17.5
+prism	31.5
+Lense 2	41.5
+sheet	199
