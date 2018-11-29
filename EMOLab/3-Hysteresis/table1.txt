@@ -1,0 +1,4 @@
+Diameter of rod (mm) 	4
+Number of turns of solenoid (n)	1080
+Length of rod (cm) (l)	52
+Distance from center of rod to magnetometer (cm) (r)	40
