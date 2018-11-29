@@ -1,0 +1,62 @@
+﻿Laser light usually a spatially coherent,
+narrow low-divergence beam, that can be manipulated
+
+with lenses.
+In this experiment our aim is to find the
+
+laser beam divergence and spotsize using a
+detector.
+
+The light emitted by a laser is confined to
+a rather narrow cone; but, as the beam propagates
+
+outward, it slowly diverges or fans out.
+At the output aperture of the laser, the beam
+
+diameter is d.
+Its beam divergence angle , usually expressed
+
+in milliradians.
+In traversing a distance , the beam diverges
+
+to a circle of diameter .
+i.e, The beam divergence is an angular measure
+
+of increase in beam diameter with distance
+from the optical aperture from which the electromagnetic
+
+beam emerges.
+
+The spot size of the beam is the radial distance
+-- from the center of maximum irradiance
+
+or intensity to the 1/e2 points.
+Procedure
+
+set a laser and a detector(for measuring the
+intensity) on an optical breadboard.
+
+Align the laser beam -- in such a way that
+laser beam can fall on detector.
+
+Fix a distance for the detector -- and take
+intensity measurements of the beam along a
+
+horizontal line -- passing the point with
+the maximum intensity.
+
+Repeat the previous step for different variants.
+Calculate the beam divergence by calculating
+
+the maximum intensity of the beam,
+which helps in calculating the beam spot size,
+
+at different distances from the laser with
+the help of the optical bread board.
+
+Now, we can observe that the divergence of
+a laser beam is proportional to its wavelength
+21
+00:02:15,860 --> 00:00:00,000
+-- and inversely proportional to the diameter
+of the beam -- at its narrowest point.

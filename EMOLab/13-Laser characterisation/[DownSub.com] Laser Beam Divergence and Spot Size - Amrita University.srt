@@ -1,0 +1,104 @@
+1
+00:00:13,900 --> 00:00:19,930
+Laser light usually a spatially coherent,
+narrow low-divergence beam, that can be manipulated
+
+2
+00:00:19,930 --> 00:00:24,560
+with lenses.
+In this experiment our aim is to find the
+
+3
+00:00:24,560 --> 00:00:27,990
+laser beam divergence and spotsize using a
+detector.
+
+4
+00:00:27,990 --> 00:00:33,910
+The light emitted by a laser is confined to
+a rather narrow cone; but, as the beam propagates
+
+5
+00:00:33,910 --> 00:00:40,940
+outward, it slowly diverges or fans out.
+At the output aperture of the laser, the beam
+
+6
+00:00:40,940 --> 00:00:46,250
+diameter is d.
+Its beam divergence angle , usually expressed
+
+7
+00:00:46,250 --> 00:00:51,119
+in milliradians.
+In traversing a distance , the beam diverges
+
+8
+00:00:51,119 --> 00:00:58,030
+to a circle of diameter .
+i.e, The beam divergence is an angular measure
+
+9
+00:00:58,030 --> 00:01:04,580
+of increase in beam diameter with distance
+from the optical aperture from which the electromagnetic
+
+10
+00:01:04,580 --> 00:01:08,330
+beam emerges.
+
+11
+00:01:08,330 --> 00:01:13,549
+The spot size of the beam is the radial distance
+ -- from the center of maximum irradiance
+
+12
+00:01:13,549 --> 00:01:21,020
+or intensity to the 1/e2 points.
+Procedure
+
+13
+00:01:21,020 --> 00:01:25,940
+set a laser and a detector(for measuring the
+intensity) on an optical breadboard.
+
+14
+00:01:25,940 --> 00:01:34,510
+Align the laser beam -- in such a way that
+laser beam can fall on detector.
+
+15
+00:01:34,510 --> 00:01:39,890
+Fix a distance for the detector -- and take
+intensity measurements of the beam along a
+
+16
+00:01:39,890 --> 00:01:45,990
+horizontal line -- passing the point with
+the maximum intensity.
+
+17
+00:01:45,990 --> 00:01:55,159
+Repeat the previous step for different variants.
+Calculate the beam divergence by calculating
+
+18
+00:01:55,159 --> 00:02:00,780
+the maximum intensity of the beam,
+which helps in calculating the beam spot size,
+
+19
+00:02:00,780 --> 00:02:10,139
+at different distances from the laser with
+the help of the optical bread board.
+
+20
+00:02:10,139 --> 00:02:15,860
+Now, we can observe that the divergence of
+a laser beam is proportional to its wavelength
+
+21
+00:02:15,860 --> 00:00:00,000
+ -- and inversely proportional to the diameter
+of the beam -- at its narrowest point.
+
